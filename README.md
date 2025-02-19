@@ -24,7 +24,6 @@ _This is an italic Text 22222_
 
 **This is bold Text**
 
-<u>This is an underline</u>  
 <ins>This is an underline</ins>
 
 ### Strike Through:
@@ -108,7 +107,7 @@ http://www.google.com
 
 <!-- ![GigImage](./assets/img1.jpg) -->
 
- <img src="./assets/img1.jpg" width="700" title="Gig Image"  />
+ <img src="./assets/img1.jpg" width="700" title="Gig Image" />
 
 ### emoji Syntax 👉:
 
