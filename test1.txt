@@ -2,4 +2,5 @@ ECHO is on.
 This is Tempurary Message!
 I was born in 15 FEB 2006. and now I'm 22 years old.
 I have complated my SSC exam in 2022
+I have started my frontend Web development journey on 2022.
 
